@@ -3,5 +3,5 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-cv_pdf: example_pdf.pdf
+cv_pdf: Hart_CV_2023MAR.pdf
 ---
