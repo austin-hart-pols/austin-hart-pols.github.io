@@ -1,10 +1,12 @@
-- title: Full CV
+- title: Further info
   type: map
   contents:
-    - name: Download
+    - name: Full CV
       value: Find my <a href='https://docs.google.com/document/d/13pk3wHMaRc4fJ7CxUIvda17Jr1C9FsZxHKzZXn-jF00/edit?usp=sharing'>academic CV here</a>
+    - name: Faculty page
+      value: <a href='https://www.american.edu/sis/faculty/ahart.cfm'>https://www.american.edu/sis/faculty/ahart.cfm</a>
 
-- title: Contact Information
+- title: Contact
   type: map
   contents:
     - name: Email
