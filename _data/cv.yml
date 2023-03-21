@@ -11,10 +11,12 @@
   contents:
     - name: Email
       value: ahart@american.edu
-    - name: Office
-      value: SIS 345
     - name: Address
       value: 4400 Massachusetts Ave NW, Washington, DC 20016
+    - name: Office
+      value: SIS 345
+    - name: Office hours
+      value: M/Tu/Th 2 to 4pm
 
 - title: Faculty Appointments
   type: time_table
